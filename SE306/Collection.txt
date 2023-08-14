@@ -1,0 +1,27 @@
+Collection
+	- List
+	- Set
+	- Map
+	- Queue
+
+Arrays
+	- fill
+	- sort
+	- binarySearch
+		
+Arraylist --> Class
+
+List(Interface)
+	- ArrayList: scope to get a consecutive block from RAM; NOT Synced; chosen when we do not use Thread
+	- LinkedList: No scope to have a consecutive block in the RAM
+	- Vector: Linked Consecutive blocks in RAM; Synced; chosen when used Thread 
+	
+	(Which we will use, depends on the scope I have)
+	
+	
+Generic: Logic/Implementation Same; but DataType Different
+
+Iterator
+ 	- Super Privilege
+ 	- like a pointer
+ 	- used to iterate through a Collection
